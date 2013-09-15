@@ -1,0 +1,1 @@
+This is a sample of the String Calculator Kata built in c#
